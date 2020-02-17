@@ -1,5 +1,9 @@
 ## How to integrate mdbootstrap with vuejs 2 LARAVEL 6
 
+# install
+
+`npm install --save mdbvue`
+
 # REPLACE 
 
 ``` js
